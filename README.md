@@ -15,4 +15,4 @@
 ![Portfolio Screenshot](link-to-screenshot.png)  
 A personal landing page showcasing my skills and projects with React, CSS animations, and responsive design.  
 **Tech:** React, CSS, HTML  
-[View Repository]([https://github.com/YOUR_USERNAME/portfolio-website](https://github.com/mr-luis-ramirez/mr-luis-ramirez.github.io))
+[View Repository]((https://github.com/mr-luis-ramirez/mr-luis-ramirez.github.io))
