@@ -11,7 +11,7 @@
 </p>
 ## 🚀 Portfolio 
 
-### 1. Portfolio Website
+### 1. HTML Journey
 <a href="https://mr-luis-ramirez.github.io" target="_blank">
   <img src="https://raw.githubusercontent.com/mr-luis-ramirez/mr-luis-ramirez.github.io/main/resources/mr-luis-ramirez-github-io.png"
        alt="Portfolio Screenshot"
@@ -23,3 +23,17 @@ A personal landing page showcasing my skills and projects with React, CSS animat
 **Tech:** React, CSS, HTML 
 <br>
 [View Repository](https://github.com/mr-luis-ramirez/mr-luis-ramirez.github.io)
+
+
+### 2. Portfolio Website
+<a href="https://mr-luis-ramirez.github.io" target="_blank">
+  <img src="https://raw.githubusercontent.com/mr-luis-ramirez/mr-luis-ramirez/whats-on-tvite/tree/main/public/images/Example.png"
+       alt="Portfolio Screenshot"
+       width="200" />
+</a>
+<br>
+A personal landing page showcasing my skills and projects with React, CSS animations, and responsive design.  
+<br>
+**Tech:** React, CSS, HTML 
+<br>
+[View Repository](https://github.com/mr-luis-ramirez/whats-on-tvite/tree/main)
