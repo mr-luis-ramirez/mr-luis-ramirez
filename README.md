@@ -7,7 +7,7 @@
 <p align="center">
 🌐 Web Developer <br>
 💻 Passionate about building modern, responsive websites <br>
-🚀 Learning & growing every day
+🌱 Learning & growing every day
 </p>
 ## 🚀 Portfolio 
 
