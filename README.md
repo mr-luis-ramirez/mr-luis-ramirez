@@ -12,7 +12,7 @@
 ## 🚀 Portfolio 
 
 ### 1. Portfolio Website
-![Portfolio Screenshot](https://github.com/mr-luis-ramirez/mr-luis-ramirez.github.io/tree/main/resources/mr-luis-ramirez-github-io.png)  
+![Portfolio Screenshot](resources/mr-luis-ramirez-github-io.png)  
 A personal landing page showcasing my skills and projects with React, CSS animations, and responsive design.  
 **Tech:** React, CSS, HTML  
 [View Repository](https://github.com/mr-luis-ramirez/mr-luis-ramirez.github.io)
