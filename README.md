@@ -27,9 +27,9 @@ A personal landing page showcasing my skills and projects with React, CSS animat
 
 ### 2. Portfolio Website
 
-    <img src="https://raw.githubusercontent.com/mr-luis-ramirez/whats-on-tvite/main/public/images/Example.png"
-       alt="Portfolio Screenshot"
-       width="200" />
+<img src="https://raw.githubusercontent.com/mr-luis-ramirez/whats-on-tvite/main/public/images/Example.png"
+     alt="Portfolio Screenshot"
+     width="200" />>
 
 <br>
 A personal landing page showcasing my skills and projects with React, CSS animations, and responsive design.  
