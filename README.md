@@ -9,3 +9,10 @@
 💻 Passionate about building modern, responsive websites <br>
 🚀 Learning & growing every day
 </p>
+## 🚀 Portfolio 
+
+### 1. Portfolio Website
+![Portfolio Screenshot](link-to-screenshot.png)  
+A personal landing page showcasing my skills and projects with React, CSS animations, and responsive design.  
+**Tech:** React, CSS, HTML  
+[View Repository](https://github.com/YOUR_USERNAME/portfolio-website)
