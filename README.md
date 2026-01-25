@@ -66,7 +66,7 @@ Writing queries with React Query and displaying loading states, error states, an
 
 ### 5. Express router
 
-<img src="https://raw.githubusercontent.com/mr-luis-ramirez/pupparazzi//main/reference-imgs/pupparazzi.gif"
+<img src="https://raw.githubusercontent.com/mr-luis-ramirez/pupparazzi/main/reference-imgs/pupparazzi.gif"
      alt="Portfolio Screenshot"
      width="200" />
 
@@ -76,3 +76,17 @@ To learn Express router and practice using promises.
 **Tech:** React, CSS, HTML 
 <br>
 [View Repository](https://github.com/mr-luis-ramirez//pupparazzi)
+
+
+### 5. Express router
+
+<img src="https://raw.githubusercontent.com/mr-luis-ramirez/dreamfest/main/reference-imgs/dreamfest.gif"
+     alt="Portfolio Screenshot"
+     width="200" />
+
+<br>
+To learn Express router and practice using promises.   
+<br>
+**Tech:** React, CSS, HTML 
+<br>
+[View Repository](https://github.com/mr-luis-ramirez/dreamfest)
