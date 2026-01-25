@@ -78,7 +78,7 @@ To learn Express router and practice using promises.
 [View Repository](https://github.com/mr-luis-ramirez/pupparazzi)
 
 
-### 6. Express router
+### 6. Database
 
 <img src="https://raw.githubusercontent.com/mr-luis-ramirez/dreamfest/main/reference-imgs/dreamfest.gif"
      alt="Portfolio Screenshot"
