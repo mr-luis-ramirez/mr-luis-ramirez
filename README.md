@@ -62,7 +62,7 @@ Writing queries with React Query and displaying loading states, error states, an
 <br>
 **Tech:** React, CSS, HTML 
 <br>
-[View Repository](https://github.com/mr-luis-ramirez//query-em-all)
+[View Repository](https://github.com/mr-luis-ramirez/query-em-all)
 
 ### 5. Express router
 
@@ -75,18 +75,18 @@ To learn Express router and practice using promises.
 <br>
 **Tech:** React, CSS, HTML 
 <br>
-[View Repository](https://github.com/mr-luis-ramirez//pupparazzi)
+[View Repository](https://github.com/mr-luis-ramirez/pupparazzi)
 
 
-### 5. Express router
+### 6. Express router
 
 <img src="https://raw.githubusercontent.com/mr-luis-ramirez/dreamfest/main/reference-imgs/dreamfest.gif"
      alt="Portfolio Screenshot"
      width="200" />
 
 <br>
-To learn Express router and practice using promises.   
+Dreamfest is a music festival, and the planning team has already built the UI and the routes, as well as having designed and seeded the initial database tables. I have implemented the database functions to be used from the routes, allowing the planning team to manage locations and events. 
 <br>
-**Tech:** React, CSS, HTML 
+**Tech:** React, CSS, Database, HTML 
 <br>
 [View Repository](https://github.com/mr-luis-ramirez/dreamfest)
