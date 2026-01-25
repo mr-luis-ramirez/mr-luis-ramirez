@@ -50,3 +50,16 @@ To build and experience to navigate continents and their countries. I used React
 **Tech:** React router, CSS, HTML 
 <br>
 [View Repository](https://github.com/mr-luis-ramirez/worldwide-routing/blob/main)
+
+### 4. API
+
+<img src="https://raw.githubusercontent.com/mr-luis-ramirez/query-em-all/main/client/styles/release-2.png"
+     alt="Portfolio Screenshot"
+     width="200" />
+
+<br>
+Writing queries with React Query and displaying loading states, error states, and data. Using the Pokémon API.   
+<br>
+**Tech:** React, CSS, HTML 
+<br>
+[View Repository](https://github.com/mr-luis-ramirez//query-em-all)
