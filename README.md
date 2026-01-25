@@ -53,8 +53,7 @@ To build and experience to navigate continents and their countries. I used React
 
 ### 4. API
 
-<img src="[https://raw.githubusercontent.com/mr-luis-ramirez/query-em-all/mr-luis-ramirez/client/styles/query-em-all.png](https://raw.githubusercontent.com/mr-luis-ramirez/query-em-all/main/client/styles/query-em-all.png
-)"
+<img src="https://raw.githubusercontent.com/mr-luis-ramirez/query-em-all/main/client/styles/query-em-all.png"
      alt="Portfolio Screenshot"
      width="200" />
 
